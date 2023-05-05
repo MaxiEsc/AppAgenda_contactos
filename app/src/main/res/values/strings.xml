@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Agenda_contactos</string>
+    <string name="title">Agenda Simple</string>
+    <string name="name">Nombre del contacto</string>
+    <string name="data">Datos y descripciones</string>
+    <string name="save">Guardar</string>
+    <string name="search">Buscar</string>
+</resources>
